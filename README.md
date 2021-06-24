@@ -1,5 +1,6 @@
 # covid_vs_non-covid
 Binary Classification of ct scan images of covid-19 and non covid images
+
 -Distinguishing COVID-19 from normal lung or other lung diseases, such as lungs cancer, bacterial pneumonia, may be a major hurdle in controlling the current pandemic.
 
 -Manual radiologist interpretation of chest CT for recognizing COVID-19 by its characteristic patterns that include peripheral ground-glass opacities, but unfortunately this measure often has low specificity.
