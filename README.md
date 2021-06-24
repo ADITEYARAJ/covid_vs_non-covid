@@ -9,3 +9,5 @@ Therefore, an efficient classification method using neural network and transfer 
 
 
 ![image](https://user-images.githubusercontent.com/58631474/123284768-23bf1480-d52a-11eb-8fa6-b19e46957a94.png)
+# visulization of covid and non-covid
+![image](https://user-images.githubusercontent.com/58631474/123285013-52d58600-d52a-11eb-85ee-1c30facf22ea.png)
