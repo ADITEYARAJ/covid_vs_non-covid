@@ -47,5 +47,4 @@ The dataset is divided into training validation and testing.
 ![image](https://user-images.githubusercontent.com/58631474/123286249-62090380-d52b-11eb-80b2-46f4569b18e5.png)
 
 # Results
--
 -Compared with results from both the model the model with  20 epochs has accuracy of 67% whereas the model with 40 epochs has accuracy of 73%.
